@@ -1,0 +1,12 @@
+{
+    "/funcionarios/list": "/funcionários/",
+    "/funcionarios/create": "/funcionários/",
+    "/funcionarios/update/:id": "/funcionários/:id",
+    "/funcionarios/delete/:id": "/funcionários/:id",
+
+    "clientes/list": "/clientes/",
+    "clientes/create": "/clientes/",
+    "clientes/update/:id": "/clientes/:id",
+    "clientes/delete/:id": "/clientes/:id"
+   
+}
